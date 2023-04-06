@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Shadows+Into+Light&display=swap');
+
+header{
+    background-color: #251b37;
+}
+h1{
+    color: antiquewhite;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 130px;
+}
+main{
+    background-color: #372948;
+}
+h2{
+    color: rgb(248, 232, 211);
+}
+section{
+    background-color: #FFCACA;
+}
+form{
+    background-color:#FFECEF;
+}
+footer{
+    background-color: #faf1f1;
+}
+.card{
+    display: inline-block;
+    border-left: 30%;
+    background-color:azure
+}
+p{
+    color:rgb(61, 15, 102) ;
+}
