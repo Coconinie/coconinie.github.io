@@ -31,3 +31,29 @@ footer{
 p{
     color:rgb(61, 15, 102) ;
 }
+.form-control{
+    width: 30%;
+    border-color:#372948
+}
+.accordion-item{
+    width: 60%;
+}
+.accordion-body{
+    font-family: 'Indie Flower';
+    font-size: 20px;
+}
+h2 accordeon-header{
+    font-size: 25px;
+}
+p{
+    font-family: 'Shadows Into Light';
+    font-size: 27px;
+}
+h3{
+    font-family: 'Indie Flower';
+    font-weight: 800;
+}
+h4{
+    font-family: 'Indie Flower';
+    font-weight: 800;
+}
